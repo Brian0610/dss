@@ -1,0 +1,197 @@
+article {
+	width: 55em; 
+	float: right; 
+	margin-bottom: 8em; 
+}
+
+article h2 {
+	font-size: 2em; 
+	font-weight: 700; 
+	margin: 1em;  
+}
+
+figure {
+	margin: 2em; 
+}
+
+figure img { 
+	width: 48em
+}
+
+article p {
+	position: relative; 
+	left: 8em; 
+	width: 33Em; 
+	line-height: 1.8em; 
+	margin: 1.5em; 
+}
+
+#listwrapper {
+	width: 53.5em; 
+	float: right; 
+	margin: .5em 0; 
+}
+
+#listwrapper section {
+	border: 1px solid white; 
+	width: 48em; 
+}
+
+#listwrapper section:hover {
+	border: 1px solid #C5C5C5; 
+}
+
+section h2 {
+	position: relative; 
+	left: 3em; 
+	top: -.25em
+	
+}
+
+section ul {
+	position: relative; 
+	left: 8em; 
+	top: -1.8em
+}
+
+section ul li {
+	font-size: .9em; 
+    margin: .5em 0; 
+}
+
+section.acorn {
+	background: url('../images/mfg/acorn_bw.jpg') no-repeat center left; 
+}
+
+section.acorn:hover {
+	background: url('../images/mfg/acorn_color.jpg') no-repeat center left; 
+}
+
+section.bobrick {
+	background: url('../images/mfg/bobrick_bw.jpg') no-repeat center left; 
+}
+
+section.bobrick:hover {
+	background: url('../images/mfg/bobrick_color.jpg') no-repeat center left; 
+}
+
+section.dssvalve {
+	background: url('../images/mfg/dssvalve_bw.jpg') no-repeat center left; 
+}
+
+section.dssvalve:hover {
+	background: url('../images/mfg/dssvalve_color.jpg') no-repeat center left; 
+}
+
+section.elmdor {
+	background: url('../images/mfg/elmdor_bw.jpg') no-repeat center left; 
+}
+
+section.elmdor:hover {
+	background: url('../images/mfg/elmdor_color.jpg') no-repeat center left; 
+}
+
+
+section.gamco {
+	background: url('../images/mfg/gamco_bw.jpg') no-repeat center left; 
+}
+
+section.gamco:hover {
+	background: url('../images/mfg/gamco_color.jpg') no-repeat center left; 
+}
+
+section.ipex {
+	background: url('../images/mfg/ipex_bw.jpg') no-repeat center left; 
+}
+
+section.ipex:hover {
+	background: url('../images/mfg/ipex_color.jpg') no-repeat center left; 
+}
+
+section.just {
+	background: url('../images/mfg/just_bw.jpg') no-repeat center left; 
+}
+
+section.just:hover {
+	background: url('../images/mfg/just_color.jpg') no-repeat center left; 
+}
+
+section.koala {
+	background: url('../images/mfg/koala_bw.jpg') no-repeat center left; 
+}
+
+section.koala:hover {
+	background: url('../images/mfg/koala_color.jpg') no-repeat center left; 
+}
+
+section.murdock {
+	background: url('../images/mfg/murdock_bw.jpg') no-repeat center left; 
+}
+
+section.murdock:hover {
+	background: url('../images/mfg/murdock_color.jpg') no-repeat center left; 
+}
+
+section.ppp {
+	background: url('../images/mfg/ppp_bw.jpg') no-repeat center left; 
+}
+
+section.ppp:hover {
+	background: url('../images/mfg/ppp_color.jpg') no-repeat center left; 
+}
+
+section.sloan {
+	background: url('../images/mfg/sloan_bw.jpg') no-repeat center left; 
+}
+
+section.sloan:hover {
+	background: url('../images/mfg/sloan_color.jpg') no-repeat center left; 
+}
+
+section.smith {
+	background: url('../images/mfg/smith_bw.jpg') no-repeat center left; 
+}
+
+section.smith:hover {
+	background: url('../images/mfg/smith_color.jpg') no-repeat center left; 
+}
+
+section.symmons {
+	background: url('../images/mfg/symmons_bw.jpg') no-repeat center left; 
+}
+
+section.symmons:hover {
+	background: url('../images/mfg/symmons_color.jpg') no-repeat center left; 
+}
+
+section.smithaco {
+	background: url('../images/mfg/smithaco_bw.jpg') no-repeat center left; 
+}
+
+section.smithaco:hover {
+	background: url('../images/mfg/smithaco_color.jpg') no-repeat center left; 
+}
+
+section.tsbrass {
+	background: url('../images/mfg/tsbrass_bw.jpg') no-repeat center left; 
+}
+
+section.tsbrass:hover {
+	background: url('../images/mfg/tsbrass_color.jpg') no-repeat center left; 
+}
+
+section.tyler {
+	background: url('../images/mfg/tyler_bw.jpg') no-repeat center left; 
+}
+
+section.tyler:hover {
+	background: url('../images/mfg/tyler_color.jpg') no-repeat center left; 
+}
+
+section.whitehall {
+	background: url('../images/mfg/whitehall_bw.jpg') no-repeat center left; 
+}
+
+section.whitehall:hover {
+	background: url('../images/mfg/whitehall_color.jpg') no-repeat center left; 
+}

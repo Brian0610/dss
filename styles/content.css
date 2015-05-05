@@ -1,0 +1,87 @@
+article {
+	width: 53.5em; 
+	float: right; 
+	position: relative; 
+	margin-bottom: 15em; 
+}
+
+article h2 {
+	font-size: 2em; 
+	font-weight: 700; 
+	margin: 1em 0;  
+}
+
+figure {
+	margin: 2em 0; 
+}
+
+figure img { 
+	width: 48em
+}
+
+article p {
+	position: relative; 
+	left: em; 
+	width: 40Em; 
+	line-height: 1.8em; 
+	margin: 1.5em 0; 
+}
+
+.contact {
+	border: 1px solid #C5C5C5; 
+	width: 22.3em; 
+	position: relative; 	
+}
+
+
+ul.services {
+	position: relative; 
+	left: 4em; 
+}
+
+ul.services li {
+	margin: 1em 0; 
+	list-style-type: disc; 
+}
+
+
+/*--- CONTACT PAGE ---*/
+
+#locations {	
+	width: 26em; 
+	position: absolute; 
+	top: 5em; 
+	right: 3em; 
+}
+
+section.main, section.branch {	 
+	width: 30em; 
+	height: 18em; 		
+}
+
+h3.main, h3.branch {
+	font-size: 1.5em; 
+	font-weight: 700; 
+	margin: .5em 0 .5em 0; 
+}
+
+h4.main, h4.branch {
+	font-size: 1em; 
+	margin: .25em 0 .25em 0; 
+	font-style: italic; 
+}
+
+iframe {
+
+}
+
+address.locations {
+	color: #555; 
+	font-size: .8em; 
+	line-height: 1.6;
+	width: 31em; 
+	position: relative; 
+	left: 17em; 
+	top: -16em; 
+	 
+}
