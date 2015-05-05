@@ -1,10 +1,14 @@
 html {
-	background: url('../images/bg.jpg') repeat-x top;	 	
+	background: url('../images/bg.jpg') repeat-x top;	
+	width: 100%;
+	overflow: auto;  	
 }
 
 body {	
 	font-family: Lato, Arial, sans-serif; 
 	background: url('../images/btmBg.jpg') repeat-x bottom;	
+	width: 100%;
+	overflow: auto;  
 }
 
 #container {
